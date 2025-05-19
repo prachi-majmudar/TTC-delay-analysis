@@ -1,0 +1,1 @@
+This project analyzes bus delays for the Toronto Transit Commission (TTC) using data from the years 2022 and 2023. The objective is to identify patterns, trends, and factors contributing to bus delays in Toronto, using data-driven insights and visualizations.
